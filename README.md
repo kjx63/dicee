@@ -1,6 +1,6 @@
 # Dicee 🎲
 
-<img width="300" alt="Screen Shot 2020-04-13 at 16 58 24" src="https://user-images.githubusercontent.com/43631528/79103858-56a73d80-7da8-11ea-8fd5-c6a6a2d3007a.png">
+
 
 The 3rd App form  Angela Yu's Flutter course on Udemy.
 https://www.udemy.com/course/flutter-bootcamp-with-dart/learn/lecture/14482952#overview
