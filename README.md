@@ -1,4 +1,5 @@
 # Dicee 🎲
+![screen_recording](https://user-images.githubusercontent.com/43631528/79119546-8fa4d980-7dcb-11ea-9071-510c593f20cf.gif)
 
 
 
